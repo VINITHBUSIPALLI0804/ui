@@ -1,6 +1,5 @@
 import { IconFolderCode } from "@tabler/icons-react"
 import { ArrowUpRightIcon } from "lucide-react"
-
 import { Button } from "@/registry/new-york-v4/ui/button"
 import {
   Empty,
@@ -10,7 +9,6 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "@/registry/new-york-v4/ui/empty"
-
 export default function EmptyDemo() {
   return (
     <Empty>
@@ -34,8 +32,7 @@ export default function EmptyDemo() {
         variant="link"
         asChild
         className="text-muted-foreground"
-        size="sm"
-      >
+        size="sm">
         <a href="#">
           Learn More <ArrowUpRightIcon />
         </a>
