@@ -1,4 +1,3 @@
-
 .theme-zinc {
   --background: 0 0% 100%;
   --foreground: 240 10% 3.9%;
@@ -31,7 +30,6 @@
 
   --radius: 0.5rem;
 }
-
 .dark .theme-zinc {
   --background: 240 10% 3.9%;
   --foreground: 0 0% 98%;
@@ -62,7 +60,6 @@
 
   --ring: 240 4.9% 83.9%;
 }
-
 .theme-slate {
   --background: 0 0% 100%;
   --foreground: 222.2 84% 4.9%;
@@ -95,7 +92,6 @@
 
   --radius: 0.5rem;
 }
-
 .dark .theme-slate {
   --background: 222.2 84% 4.9%;
   --foreground: 210 40% 98%;
@@ -126,7 +122,6 @@
 
   --ring: 212.7 26.8% 83.9;
 }
-
 .theme-stone {
   --background: 0 0% 100%;
   --foreground: 20 14.3% 4.1%;
@@ -159,7 +154,6 @@
 
   --radius: 0.95rem;
 }
-
 .dark .theme-stone {
   --background: 20 14.3% 4.1%;
   --foreground: 60 9.1% 97.8%;
@@ -190,7 +184,6 @@
 
   --ring: 24 5.7% 82.9%;
 }
-
 .theme-gray {
   --background: 0 0% 100%;
   --foreground: 224 71.4% 4.1%;
